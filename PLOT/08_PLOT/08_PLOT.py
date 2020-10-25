@@ -78,6 +78,4 @@ ax_5.legend()
 ax_6.set(title='ax_6', xticks=[], yticks=[])
 ax_6.legend()
 
-plt.savefig("08_PLOT")
-
 plt.show()
