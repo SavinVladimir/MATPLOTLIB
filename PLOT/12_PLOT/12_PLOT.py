@@ -26,5 +26,4 @@ plt.grid()
 frame = plt.gca()
 frame.axes.get_xaxis().set_ticks([0, 10, 20, 30, 40, 50, 60, 70])
 
-
 plt.show()
