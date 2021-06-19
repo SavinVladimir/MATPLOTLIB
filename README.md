@@ -8,7 +8,7 @@
 ### [Example - 2](https://github.com/SavinVladimir/MATPLOTLIB/tree/main/PLOT/01_PLOT)
 <img src="https://github.com/SavinVladimir/MATPLOTLIB/blob/main/PLOT/01_PLOT/01_PLOT.png" />
 
-### [Example - 2](https://github.com/SavinVladimir/MATPLOTLIB/tree/main/PLOT/02_PLOT)
+### [Example - 3](https://github.com/SavinVladimir/MATPLOTLIB/tree/main/PLOT/02_PLOT)
 <img src="https://github.com/SavinVladimir/MATPLOTLIB/blob/main/PLOT/00_PLOT/02_PLOT.png" />
 
 ### [Example - 4](https://github.com/SavinVladimir/MATPLOTLIB/tree/main/PLOT/03_PLOT)
